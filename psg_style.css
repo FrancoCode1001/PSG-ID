@@ -92,9 +92,6 @@ footer{
     font-size: 13px;
     margin: 5px 0;
 }
-button:hover{
-    color: rgba(#3b5280, 0, 0, 0.5);
-}
 footer:hover,
 a:hover{
     color: #ff1541;
